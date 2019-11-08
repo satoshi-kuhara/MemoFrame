@@ -1,0 +1,6 @@
+framework module Pods_myboard {
+  umbrella header "Pods-myboard-umbrella.h"
+
+  export *
+  module * { export * }
+}
