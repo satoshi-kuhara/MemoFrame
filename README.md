@@ -6,7 +6,7 @@
 ここにタスクなど、今自分が何をしているのかということを書いて、作業が他のことに逸れないようにするという目的から作ったものになります。
 
 ## GET
-http://yourhost/api/message?key=getapikey （getapikeyはサーバー（https://github.com/satoshi-kuhara/MemoFrame-Server）側のenvで設定します。）
+http://yourhost/api/message?key=GET_KEY （GET_KEYはサーバー（<https://github.com/satoshi-kuhara/MemoFrame-Server>）側のenvで設定します。）
 ```
 {
     "message": "Message",
