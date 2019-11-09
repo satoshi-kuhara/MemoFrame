@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  nowview
+//  MemoFrame
 //
 //  Created by Satoshi Kuhara on 2019/06/05.
 //  Copyright © 2019年 Satoshi Kuhara. All rights reserved.
