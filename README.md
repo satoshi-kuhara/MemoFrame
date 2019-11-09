@@ -6,6 +6,7 @@
 ここにタスクなど、今自分が何をしているのかということを書いて、作業が他のことに逸れないようにするという目的から作ったものになります。
 
 ## GET
+http://yourhost/api/message?key=getapikey （getapikeyはenvで設定します。）
 ```
 {
     "message": "Message",
