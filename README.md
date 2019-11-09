@@ -6,7 +6,7 @@
 ここにタスクなど、今自分が何をしているのかということを書いて、作業が他のことに逸れないようにするという目的から作ったものになります。
 
 ## GET
-http://yourhost/api/message?key=getapikey （getapikeyはenvで設定します。）
+http://yourhost/api/message?key=getapikey （getapikeyはサーバー（https://github.com/satoshi-kuhara/MemoFrame-Server）側のenvで設定します。）
 ```
 {
     "message": "Message",
@@ -30,3 +30,9 @@ http://yourhost/api/message?key=getapikey （getapikeyはenvで設定します�
 単調では飽きてしまうので、追加実装してみました。
 
 なお、APIからデータを取得するとき、colorの値によって色が変わります。
+
+## 動画
+https://www.youtube.com/watch?v=rYCypHYrits
+
+## あとがき
+今後はサーバー側をFirebaseでやってみたいと考えています。
